@@ -1,1 +1,7 @@
+#inckude<iostream>
+using namesapce std;
 
+int main()
+{
+cout<<"Hello world";
+}
